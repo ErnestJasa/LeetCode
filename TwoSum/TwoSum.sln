@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{50993F4D-EBAE-4D80-A665-79D72DB6F084}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{18C2018E-ECFB-4594-B2B4-2A6397370E30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50993F4D-EBAE-4D80-A665-79D72DB6F084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50993F4D-EBAE-4D80-A665-79D72DB6F084}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50993F4D-EBAE-4D80-A665-79D72DB6F084}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50993F4D-EBAE-4D80-A665-79D72DB6F084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C2018E-ECFB-4594-B2B4-2A6397370E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C2018E-ECFB-4594-B2B4-2A6397370E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C2018E-ECFB-4594-B2B4-2A6397370E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C2018E-ECFB-4594-B2B4-2A6397370E30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {866FFF6E-5687-4C5B-99B0-7592F68EA16F}
+		SolutionGuid = {1470ADEA-88BE-45D8-9CF6-2137FF6AB033}
 	EndGlobalSection
 EndGlobal

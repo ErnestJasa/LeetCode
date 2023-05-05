@@ -1,5 +1,4 @@
-﻿
-int[] arr = new int[] { 3, 2, 3 };
+﻿int[] arr = new int[] { 3, 2, 3 };
 
 int[] TwoSum(int[] nums, int target)
 {
